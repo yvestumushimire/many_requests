@@ -25,7 +25,3 @@ def app(url: str, q: int, worker: int) -> None:
             click.echo(f"⌛ Time used {round(time.time() - start_time, 2)} seconds")
         except Exception as e:
             click.echo(f"😥 failed === {e}")
-
-
-if __name__ == "__main__":
-    app()
