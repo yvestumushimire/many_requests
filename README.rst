@@ -8,6 +8,7 @@ Usage
 Install the package:
 
 ``pip install many-requests-cli``
+use the command:
 ``mrc --help``
     
 *Disclaimer*
