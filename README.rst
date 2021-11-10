@@ -5,9 +5,10 @@ CLI app to send muliple requests to endpoint.
 
 Usage
 -----
-.. code-block:: python
-    $ pip install many-requests-cli
-    $ mrc --help
+Install the package:
+
+``pip install many-requests-cli``
+``mrc --help``
     
 *Disclaimer*
 ------------
